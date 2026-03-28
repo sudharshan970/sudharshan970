@@ -31,3 +31,6 @@ Python | SQL | Scikit-learn | XGBoost | Pandas | NumPy | Flask | Streamlit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudharshan970&show_icons=true&theme=tokyonight" />
 </p>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/sudharshan970/sudharshan970/blob/output/github-contribution-grid-snake.svg)
