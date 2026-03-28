@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00F7FF&height=180&section=header&text=Sudharshan%20Kumar&fontSize=40&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:00F7FF&height=180&section=header&text=Thepalle%20Sudharshan%20Kumar&fontSize=38&fontColor=00F7FF&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -36,32 +36,24 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" /><br/>Python &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" title="Python"/> 
+<img src="https://skillicons.dev/icons?i=sql" title="SQL"/> 
+<img src="https://skillicons.dev/icons?i=c" title="C"/> 
+<img src="https://skillicons.dev/icons?i=cpp" title="C++"/> 
+<img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/> 
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/> 
+<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/> 
+<img src="https://skillicons.dev/icons?i=flask" title="Flask"/> 
+<img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit"/> 
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/> 
+<img src="https://skillicons.dev/icons?i=git" title="Git"/> 
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/> 
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> 
 
-<img src="https://skillicons.dev/icons?i=sql" /><br/>SQL &nbsp;&nbsp;&nbsp;
+</p>
 
-<img src="https://skillicons.dev/icons?i=c" /><br/>C &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=cpp" /><br/>C++ &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=sklearn" /><br/>Scikit-learn &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=pytorch" /><br/>PyTorch &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=tensorflow" /><br/>TensorFlow &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=flask" /><br/>Flask &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=streamlit" /><br/>Streamlit &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" /><br/>Git &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github" /><br/>GitHub &nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
-
+<p align="center">
+Python • SQL • C • C++ • Scikit-learn • PyTorch • TensorFlow • Flask • Streamlit • MySQL • Git • GitHub • VS Code
 </p>
 
 ---
