@@ -39,7 +39,7 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sql" width="50"/><br>SQL</td>
+<td align="center"><img src="https://img.icons8.com/color/48/sql.png" width="50"/><br>SQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br>C</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
 </tr>
@@ -55,7 +55,7 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow</td>
-<td align="center"><img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="50"/><br>ML Models</td>
+<td align="center"><img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="50"/><br>Machine Learning</td>
 <td align="center"><img src="https://img.icons8.com/color/48/brain.png" width="50"/><br>NLP</td>
 </tr>
 </table>
@@ -67,8 +67,8 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 <p align="center">
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>Pandas</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy</td>
+<td align="center"><img src="https://img.icons8.com/color/48/pandas.png" width="50"/><br>Pandas</td>
+<td align="center"><img src="https://img.icons8.com/color/48/numpy.png" width="50"/><br>NumPy</td>
 <td align="center"><img src="https://img.icons8.com/color/48/combo-chart.png" width="50"/><br>EDA</td>
 <td align="center"><img src="https://img.icons8.com/color/48/statistics.png" width="50"/><br>Statistics</td>
 <td align="center"><img src="https://img.icons8.com/color/48/process.png" width="50"/><br>Feature Engg</td>
@@ -82,9 +82,9 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 <p align="center">
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="50"/><br>Matplotlib</td>
-<td align="center"><img src="https://img.icons8.com/color/48/seaborn.png" width="50"/><br>Seaborn</td>
-<td align="center"><img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50"/><br>Plotly</td>
+<td align="center"><img src="https://img.icons8.com/color/48/line-chart.png" width="50"/><br>Matplotlib</td>
+<td align="center"><img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50"/><br>Seaborn</td>
+<td align="center"><img src="https://img.icons8.com/color/48/combo-chart--v2.png" width="50"/><br>Plotly</td>
 <td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>Power BI</td>
 </tr>
 </table>
@@ -96,16 +96,17 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 <p align="center">
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="50"/><br>Streamlit</td>
+<td align="center"><img src="https://img.icons8.com/color/48/flask.png" width="50"/><br>Flask</td>
+<td align="center"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="50"/><br>Streamlit</td>
 <td align="center"><img src="https://img.icons8.com/color/48/api.png" width="50"/><br>REST API</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+<td align="center"><img src="https://img.icons8.com/color/48/mysql-logo.png" width="50"/><br>MySQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
 </tr>
 </table>
 </p>
+
 
 
 ## 📊 Stats
