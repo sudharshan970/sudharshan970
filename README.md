@@ -34,29 +34,79 @@ Specialized in **fraud detection, recommendation systems, and NLP**, with strong
 
 ## ⚙️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" title="Python"/> 
-<img src="https://skillicons.dev/icons?i=sql" title="SQL"/> 
-<img src="https://skillicons.dev/icons?i=c" title="C"/> 
-<img src="https://skillicons.dev/icons?i=cpp" title="C++"/> 
-<img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/> 
-<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/> 
-<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/> 
-<img src="https://skillicons.dev/icons?i=flask" title="Flask"/> 
-<img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit"/> 
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/> 
-<img src="https://skillicons.dev/icons?i=git" title="Git"/> 
-<img src="https://skillicons.dev/icons?i=github" title="GitHub"/> 
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/> 
-
-</p>
-
-<p align="center">
-Python • SQL • C • C++ • Scikit-learn • PyTorch • TensorFlow • Flask • Streamlit • MySQL • Git • GitHub • VS Code
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sql" width="50"/><br>SQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
+</tr>
+</table>
 </p>
 
 ---
+
+### 🤖 Machine Learning & AI
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>Scikit-learn</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="50"/><br>PyTorch</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="50"/><br>TensorFlow</td>
+<td align="center"><img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="50"/><br>ML Models</td>
+<td align="center"><img src="https://img.icons8.com/color/48/brain.png" width="50"/><br>NLP</td>
+</tr>
+</table>
+</p>
+
+---
+
+### 📊 Data Science & Analysis
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>Pandas</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>NumPy</td>
+<td align="center"><img src="https://img.icons8.com/color/48/combo-chart.png" width="50"/><br>EDA</td>
+<td align="center"><img src="https://img.icons8.com/color/48/statistics.png" width="50"/><br>Statistics</td>
+<td align="center"><img src="https://img.icons8.com/color/48/process.png" width="50"/><br>Feature Engg</td>
+</tr>
+</table>
+</p>
+
+---
+
+### 📈 Data Visualization
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" width="50"/><br>Matplotlib</td>
+<td align="center"><img src="https://img.icons8.com/color/48/seaborn.png" width="50"/><br>Seaborn</td>
+<td align="center"><img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="50"/><br>Plotly</td>
+<td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" width="50"/><br>Power BI</td>
+</tr>
+</table>
+</p>
+
+---
+
+### 🌐 Tools & Deployment
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=streamlit" width="50"/><br>Streamlit</td>
+<td align="center"><img src="https://img.icons8.com/color/48/api.png" width="50"/><br>REST API</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+</tr>
+</table>
+</p>
+
 
 ## 📊 Stats
 
