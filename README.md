@@ -7,39 +7,61 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+AI+Systems;Fraud+Detection+%7C+ML+Pipelines;Turning+Data+into+Impact;Deploying+Production+ML+Models&center=true&width=600&height=45&color=00F7FF&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+AI+Systems;Fraud+Detection+%7C+ML+Pipelines;Turning+Data+into+Impact;Open+to+Work+🚀&center=true&width=600&height=45&color=00F7FF&size=22&pause=1000" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudharshan970&label=Profile%20Views&color=00F7FF&style=flat-square" />
+  <a href="mailto:thepallisudharshan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+  </a>
+  <a href="https://linkedin.com/in/thepalle-sudharshan-a19263351">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
+  <a href="https://sudharshan-portfolio-o6b2.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 About
 
-I build **production-grade machine learning systems** that deliver real-world impact.
+I build **production-grade machine learning systems** focused on solving real-world problems.
 
-Focused on **fraud detection, recommendation systems, and NLP**, with strong expertise in **data analysis, feature engineering, and scalable model deployment**.
-
----
-
-## ⚙️ Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sql,c,cpp,sklearn,pytorch,tensorflow,flask,streamlit,mysql,git,github,vscode" />
-
-</p>
+Specialized in **fraud detection, recommendation systems, and NLP**, with strong expertise in **feature engineering, statistical analysis, and deploying scalable ML pipelines**.
 
 ---
 
-## 🌐 Portfolio
+## ⚙️ Tech Stack
 
 <p align="center">
-  <a href="https://sudharshan-portfolio-o6b2.onrender.com">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python" /><br/>Python &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=sql" /><br/>SQL &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=c" /><br/>C &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=cpp" /><br/>C++ &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=sklearn" /><br/>Scikit-learn &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=pytorch" /><br/>PyTorch &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=tensorflow" /><br/>TensorFlow &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=flask" /><br/>Flask &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=streamlit" /><br/>Streamlit &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=mysql" /><br/>MySQL &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=git" /><br/>Git &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=github" /><br/>GitHub &nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
+
 </p>
 
 ---
@@ -52,7 +74,7 @@ Focused on **fraud detection, recommendation systems, and NLP**, with strong exp
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=sudharshan970&theme=github-dark&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=sudharshan970&theme=github-dark&hide_border=true&ring=00F7FF&fire=00F7FF"/>
 </p>
 
 ---
@@ -60,7 +82,7 @@ Focused on **fraud detection, recommendation systems, and NLP**, with strong exp
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshan970&theme=github-dark&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshan970&theme=github-dark&hide_border=true&color=00F7FF&line=00F7FF"/>
 </p>
 
 ---
