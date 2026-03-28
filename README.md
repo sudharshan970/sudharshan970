@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sudharshan</h1>
 
-<!--
-**sudharshan970/sudharshan970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+📊;ML+Engineer+🤖;Building+AI+Systems+🚀;Python+Developer+🐍&center=true&width=600&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a Data Scientist and Machine Learning Engineer with experience building real-world AI solutions including fraud detection systems and recommendation engines.
+
+I specialize in data analysis, predictive modeling, and deploying scalable machine learning applications.
+
+---
+
+## 🚀 Tech Stack
+
+Python | SQL | Scikit-learn | XGBoost | Pandas | NumPy | Flask | Streamlit
+
+---
+
+## 🌐 Portfolio
+
+👉 https://sudharshan-portfolio-o6b2.onrender.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudharshan970&show_icons=true&theme=tokyonight" />
+</p>
