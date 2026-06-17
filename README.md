@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Machine Learning Engineer•AI Engineer • Data Scientist • Python Developer</b>
+  <b>Machine Learning Engineer • AI Engineer • Data Scientist • Python Developer</b>
 </p>
 
 <p align="center">
